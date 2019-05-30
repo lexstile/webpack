@@ -1,2 +1,2 @@
 # webpack
-Starter kit for react & redux development
+Starter kit for react development
